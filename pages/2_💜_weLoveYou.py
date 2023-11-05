@@ -29,7 +29,7 @@ st.markdown("""
 
     """)
 
-box1 = st.text_input("1.")
+box1 = st.text_input("1: Lowercase")
 
 if box1 == ('INSERT HERE'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Correct :) This one is from Aadya, and the letter is "W" </span></p></em><b>'
@@ -38,7 +38,7 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again lolo :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 
-box2 = st.text_input(" 2. Lowercase ")
+box2 = st.text_input(" 2: Lowercase ")
 if box2 == ('e'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Correctsss! From Anuva, Your letter is well, "e"! </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
@@ -46,7 +46,7 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:BAriel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again lolo :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 
-box3 = st.text_input(" 3. Lowercase")
+box3 = st.text_input(" 3: Lowercase")
 if box3 == ('cooper'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">hehe he is indeed :) that was all Anvi,  and your letter is "L" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
@@ -54,7 +54,7 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again loly :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 
-box4 = st.text_input("4. lowercase")
+box4 = st.text_input("4: Lowercase")
 if box4 == ('diya'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Correctt that is from Diya, your letter is "o"</span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
@@ -62,42 +62,42 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try againnnn :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 
-box5 = st.text_input("5. lowercase (2 words) ")
+box5 = st.text_input("5: lowercase (2 words) ")
 if box5 == ('your breath'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">> Yup you are rightt that is from your Hasini lolo, your letter is "V"</span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again oop :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box6 = st.text_input("6. lowercase ")
+box6 = st.text_input("6: lowercase ")
 if box6 == ('pramiti'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Very correcto :) That one is Pramiti, and your number actually is "3" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box7 = st.text_input("7. lowercase (two words) ")
+box7 = st.text_input("7: Lowercase (two words) ")
 if box7 == ('carrot eraser'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Noice you got ittt :) From my homey Sammith, your letter is "Y" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box8 = st.text_input("8. lowercase")
+box8 = st.text_input("8: Lowercase")
 if box8 == ('sand'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Yess there you goo, that is from Shirya, and your letter is "o" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Tryyyy againss  :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box9 = st.text_input("9. lowercase")
+box9 = st.text_input("9: Lowercase")
 if box9 == ('trisha'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Correcct ineeed, from Trisha, and your letter is a big "U" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again again :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box10 = st.text_input("10. Capital first letter, lowercase rest")
+box10 = st.text_input("10: Capital first letter, lowercase rest")
 if box10 == ('Unsanskari'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Oh yes actually wild, this one is from Tej ofc, and your letter is "n"</span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
@@ -105,14 +105,14 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try againnnn :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 
-box11 = st.text_input("11. lowercase")
+box11 = st.text_input("11: Lowercase")
 if box11 == ('ananya'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Yepp you got it, this one is from Ananya, and your letter is "i" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again yaaa :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box12 = st.text_input("12. lowercase")
+box12 = st.text_input("12: Lowercase")
 
 if box12 == ('rishima'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Righttt, form Rishima, your letter is "d" </span></p></em><b>'
@@ -120,7 +120,7 @@ if box12 == ('rishima'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again lolz :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box13 = st.text_input("13. lowercase")
+box13 = st.text_input("13: Lowercase")
 
 if box13 == ('smithi'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> You are corrrecttt, this one is from Smithi, and your letter is "h" </span></p></em><b>'
@@ -128,7 +128,7 @@ if box13 == ('smithi'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box14 = st.text_input("14. lowercase")
+box14 = st.text_input("14: Lowercase")
 
 if box14 == ('sruthi'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Yup loly correcttt, this is from Sruthi, and your letter is another "i" </span></p></em><b>'
@@ -136,7 +136,7 @@ if box14 == ('sruthi'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box15 = st.text_input("15. lowercase")
+box15 = st.text_input("15: Lowercase")
 
 if box15 == ('me'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Correcctt: This is from ____ and your symbol is a simple space " " </span></p></em><b>'
@@ -144,7 +144,7 @@ if box15 == ('me'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box16 = st.text_input("16. lowercase")
+box16 = st.text_input("16: Lowercase")
 
 if box16 == ('me'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">  Rightyyy, Your symbol is  ":" :)</span></p></em><b>'
@@ -152,7 +152,7 @@ if box16 == ('me'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box17 = st.text_input("17. first letter captial, lowercase")
+box17 = st.text_input("17: first letter captial, lowercase")
 
 if box17 == ('Cancun :)'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> And finally ofc :) This one hehe perfect from me :) Your final symbol is ")"</span></p></em><b>'
