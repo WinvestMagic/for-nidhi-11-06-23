@@ -165,12 +165,12 @@ else:
 
 
 if box1 == 'Girl Scout' and box2 == 'e' and box3 == 'cooper' and box4 == 'diya' and box5 == 'your breath' and box6 == 'Christmas' and box7 == 'carrot eraser' and box8 == 'sand' and box9 == 'your will to live' and box10 == 'Unsanskari' and box11 == 'frog' and box12 == 'fire' and box13 == 'chinmaya' and box14 == 'dora' and box15 == 'river' and box16 == 'krishu' and box17 == 'Cancun :)':
-    original_title12 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 40px;"> BABY U DID IT :))))))</p></em><b>'
+    original_title12 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 40px;"> doneeeeeeeee :))))))</p></em><b>'
     st.markdown(original_title12, unsafe_allow_html=True)
-    original_title13 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">yayayyay u finisheeeeeeeed :)</p></em><b>'
+    original_title13 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 30px;">yayayyay u finisheeeeeeeed :)</p></em><b>'
     st.markdown(original_title13, unsafe_allow_html=True)
 
-    original_title14 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">yayayyay u finisheeeeeeeed :)  Final: Hehe whattt doesss it spelllll? Type it in the next page :)</p></em><b>'
+    original_title14 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 30px;">The passworddd: Hehe whattt doesss it spelllll? Type it in the next page :)</p></em><b>'
     st.markdown(original_title14, unsafe_allow_html=True)
 
 
