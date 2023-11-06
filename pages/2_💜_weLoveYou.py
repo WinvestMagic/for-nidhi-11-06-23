@@ -69,8 +69,8 @@ if box5 == ('your breath'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again oop :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box6 = st.text_input("6: lowercase ")
-if box6 == ('pramiti'):
+box6 = st.text_input("6: First letter captial ")
+if box6 == ('Christmas'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Very correcto :) That one is Pramiti, and your number actually is "3" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
