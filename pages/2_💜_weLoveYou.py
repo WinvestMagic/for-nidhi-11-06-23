@@ -29,9 +29,9 @@ st.markdown("""
 
     """)
 
-box1 = st.text_input("1: Lowercase")
+box1 = st.text_input("1: Normal Captilization rules (two words) ")
 
-if box1 == ('INSERT HERE'):
+if box1 == ('Girl Scout'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Correct :) This one is from Aadya, and the letter is "W" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
@@ -106,7 +106,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 
 box11 = st.text_input("11: Lowercase")
-if box11 == ('ananya'):
+if box11 == ('frog'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Yepp you got it, this one is from Ananya, and your letter is "i" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
@@ -122,7 +122,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 box13 = st.text_input("13: Lowercase")
 
-if box13 == ('smithi'):
+if box13 == ('chinmaya'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> You are corrrecttt, this one is from Smithi, and your letter is "h" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
@@ -130,7 +130,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 box14 = st.text_input("14: Lowercase")
 
-if box14 == ('sruthi'):
+if box14 == ('dora'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Yup loly correcttt, this is from Sruthi, and your letter is another "i" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
