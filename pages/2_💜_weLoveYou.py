@@ -114,7 +114,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 box12 = st.text_input("12: Lowercase")
 
-if box12 == ('rishima'):
+if box12 == ('fire'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Righttt, form Rishima, your letter is "d" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
