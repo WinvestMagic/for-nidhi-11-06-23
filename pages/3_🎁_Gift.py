@@ -44,8 +44,8 @@ if box1 == 'WeLoV3YoUnidhi :)':
     original_title13 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">Hehe now here is a spedcial smth from us all :) </p></em><b>'
     st.markdown(original_title13, unsafe_allow_html=True)
 
-    original_title13 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">Hehe now here is a spedcial smth from us all :) </p></em><b>'
-    st.markdown(original_title13, unsafe_allow_html=True)
+    original_title14 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">Go hereee: https://tinyurl.com/for-nidhi-11-06-2023</p></em><b>'
+    st.markdown(original_title14, unsafe_allow_html=True)
 
 
 
