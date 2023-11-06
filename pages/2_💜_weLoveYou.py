@@ -91,7 +91,7 @@ else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Tryyyy againss  :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
 box9 = st.text_input("9: Lowercase")
-if box9 == ('trisha'):
+if box9 == ('your will to live'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Correcct ineeed, from Trisha, and your letter is a big "U" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
