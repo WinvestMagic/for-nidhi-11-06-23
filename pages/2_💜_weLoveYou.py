@@ -138,7 +138,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 box15 = st.text_input("15: Lowercase")
 
-if box15 == ('me'):
+if box15 == ('river'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E"> Correcctt: This is from ____ and your symbol is a simple space " " </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
@@ -146,7 +146,7 @@ else:
     st.markdown(original_title5, unsafe_allow_html=True)
 box16 = st.text_input("16: Lowercase")
 
-if box16 == ('me'):
+if box16 == ('krishu'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">  Rightyyy, Your symbol is  ":" :)</span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
 else:
