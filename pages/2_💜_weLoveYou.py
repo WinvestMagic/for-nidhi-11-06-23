@@ -90,7 +90,7 @@ if box8 == ('sand'):
 else:
     original_title5 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Tryyyy againss  :))</span></p></em><b>'
     st.markdown(original_title5, unsafe_allow_html=True)
-box9 = st.text_input("9: Lowercase")
+box9 = st.text_input("9: Lowercase (four words) ")
 if box9 == ('your will to live'):
     original_title4 = '<b><em class = "word break"><p style="font-family:Ariel, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">Correcct ineeed, from Trisha, and your letter is a big "U" </span></p></em><b>'
     st.markdown(original_title4, unsafe_allow_html=True)
@@ -164,20 +164,17 @@ else:
 
 
 
-if box1 == 'PANEER' and box2 == 'PISCES' and box3 == 'ROBOTICS' and box4 == 'CANCUN,PORTUGAL,LONDON,TURKEY' and box5 == '03/19/2022' and box6 == '03/05/2022' and box7 == 'DHIR,ASHAR,MURTAZA' and box8 == '03/27/2022' and box9 == 'CUTE,HOT,SEXY' and box10 == 'THEM ALL':
+if box1 == 'Girl Scout' and box2 == 'e' and box3 == 'cooper' and box4 == 'diya' and box5 == 'your breath' and box6 == 'Christmas' and box7 == 'carrot eraser' and box8 == 'sand' and box9 == 'your will to live' and box10 == 'Unsanskari' and box11 == 'frog' and box12 == 'fire' and box13 == 'chinmaya' and box14 == 'dora' and box15 == 'river' and box16 == 'krishu' and box17 == 'Cancun :)':
     original_title12 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 40px;"> BABY U DID IT :))))))</p></em><b>'
     st.markdown(original_title12, unsafe_allow_html=True)
-    original_title13 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">yayayyay u finisheeeeeeeed :)) now u getty lovey letter :)))</p></em><b>'
+    original_title13 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">yayayyay u finisheeeeeeeed :)</p></em><b>'
     st.markdown(original_title13, unsafe_allow_html=True)
-    box11 = st.text_input("Final: Hehe whattt doesss it spelllll?")
-    if box11 == ('MOON PALACE'):
-        original_title4 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 18px;"><span style="background-color:#2EFE2E">heheh :) i love you baby :)</span></p></em><b>'
-        st.markdown(original_title4, unsafe_allow_html=True)
-        st.subheader("[We aer for life :heart:]"
-                         "(https://docs.google.com/document/d/1iZCTgmPf1CPh7ywMklvJxHaEGrvf0ZvXuzb6A1fuotg/edit?usp=sharing)")
-    else:
-        original_title5 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Red; font-size: 18px;"><span style="background-color:#000000">Try again hehe :))</span></p></em><b>'
-        st.markdown(original_title5, unsafe_allow_html=True)
+
+    original_title14 = '<b><em class = "word break"><p style="font-family:Brush Script MT, cursive; color:Black; font-size: 30px;">yayayyay u finisheeeeeeeed :)  Final: Hehe whattt doesss it spelllll? Type it in the next page :)</p></em><b>'
+    st.markdown(original_title14, unsafe_allow_html=True)
+
+
+   
 
 
 
